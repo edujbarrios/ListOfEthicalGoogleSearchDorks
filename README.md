@@ -117,10 +117,6 @@ If this project helped you in your work, study, or teaching, please consider cit
 
 **Citation (APA style):**
 
-Barrios, E. J. (2025). *List Of Ethical Google Search Dorks*. Retrieved from [https://github.com/yourusername/google-dorks-safe](https://github.com/yourusername/google-dorks-safe)
+Barrios, E. J. (2025). *List Of Ethical Google Search Dorks*. Retrieved from [https://github.com/edujbarrios/ListOfEthicalGoogleSearchDorksDorks](https://github.com/edujbarrios/ListOfEthicalGoogleSearchDorksDorks)
 
-**Author:**  
-Eduardo J. Barrios  
-🌐 https://edujbaarrios.com  
-📧 eduardojbarriosgarcia@gmail.com  
-🔗 GitHub: https://github.com/yourusername
+
