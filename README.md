@@ -113,10 +113,5 @@ Have a safe dork you love using? Open a pull request or issue!
 
 ## 🙏 If you find it useful, would you mind citing it?
 
-If this project helped you in your work, study, or teaching, please consider citing it to support the author's work.
-
-**Citation (APA style):**
-
-Barrios, E. J. (2025). *List Of Ethical Google Search Dorks*. Retrieved from [https://github.com/edujbarrios/ListOfEthicalGoogleSearchDorksDorks](https://github.com/edujbarrios/ListOfEthicalGoogleSearchDorksDorks)
-
+If this project helped you in your work, study, or teaching, please consider citing it to support the author's work. Refer to [CITATIONS.md](./CITATIONS.md)
 
